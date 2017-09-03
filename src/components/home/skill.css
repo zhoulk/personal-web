@@ -1,0 +1,10 @@
+.skill{
+    height: 200px;
+}
+.skill-breakword{
+    word-wrap: break-word;
+}
+.skill-ellipsis{
+    text-overflow:ellipsis;
+    overflow:hidden;
+}

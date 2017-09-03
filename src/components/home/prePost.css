@@ -1,0 +1,18 @@
+.prePost-title{
+    font-size: 30px;
+    color: black;
+}
+.prePost-time{
+    font-style: italic;
+}
+
+.prePost-p {
+    text-align: left;
+
+    word-wrap:break-word;
+}
+
+.prePost-content{
+    width: 100%;
+    min-height: 100px;
+}

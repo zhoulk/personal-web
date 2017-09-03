@@ -1,0 +1,15 @@
+.pageView-p {
+    text-align: left;
+
+    word-wrap:break-word;
+}
+
+.pageView-title {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.pageView-time {
+
+}
